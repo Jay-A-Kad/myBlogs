@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "monday march",
+      "body": "I don't know what to say about today I had fun like genuine did my chores and focused on health.",
+      "author": "jay",
+      "id": 1
+    },
+    {
+      "title": "It is tueday now and i have'nt slept yet",
+      "body": "it is 12:26 am and I am just finished with this blog project. I made this just for some fun. I hope to use it in the future...",
+      "author": "jay",
+      "id": 2
+    },
+    {
+      "title": "finished with blog",
+      "body": "i will now add my repo and commit these changes",
+      "author": "kelpie",
+      "id": 3
+    }
+  ]
+}

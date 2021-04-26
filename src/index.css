@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Roboto Mono";
+  color: #14213d;
+}
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #98c1d9;
+}
+
+.navbar h1 {
+  color: #7209b7;
+  font-size: xx-large;
+}
+.navbar h6 {
+  position: absolute;
+  display: block;
+  margin-top: 60px;
+}
+
+.navbar .links {
+  margin-left: auto;
+  text-decoration: none;
+}
+
+.navbar a {
+  margin-left: 20px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  color: crimson;
+  font-size: large;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.blog-preview:hover {
+  border-bottom: 1px solid#14213d;
+  border-right: 1px solid#14213d;
+}
+
+.blog-preview h2,
+h3 {
+  color: #e76f51;
+  padding: 5px;
+  margin-top: 60px;
+}
+
+.blog-preview h5 {
+  color: #b5179e;
+  padding: 5px;
+}
+
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0, 0.1);
+}
+
+.create h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.create input,
+textarea,
+select {
+  align-items: center;
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0px;
+  border: 1px solid #14213d;
+}
+
+.create textarea {
+  padding: 50px;
+  text-align: left;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create button {
+  border: 0px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #7209b7;
+  color: #edf6f9;
+}
+
+.create button:hover {
+  font-size: medium;
+  color: #ef476f;
+}
+
+/* blog details */
+.blog-details article div {
+  margin-top: 40px;
+}
+
+.blog-details article p {
+  margin-top: 40px;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-align: right;
+}
+
+.blog-details article button {
+  margin-top: 20px;
+}
+
+.blog-details article button:hover {
+  font-size: medium;
+}
+
+/* blog footer */
+
+.App-Footer {
+  transform: translate(-50%, -50%);
+  border-top: 1px solid #98c1d9;
+  position: absolute;
+  bottom: 0;
+  align-items: center;
+  left: 50%;
+}
