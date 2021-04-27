@@ -10,7 +10,7 @@
 
 
 
-<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding: 40px>Blog Dashboard with all the blogs displayed.</h5>
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding: "40px">Blog Dashboard with all the blogs displayed.</h5>
 <div align="center" ; padding: 20px>
 
   ![Home](media/home.PNG)
