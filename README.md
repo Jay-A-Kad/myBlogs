@@ -1,3 +1,66 @@
+## MyBlogs
+
+<h3 style="text-align=center";font-family: "Robot Mono", Times, serif; >"A Personal Space to document your thoughts..."</h3>
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding: 40px>User login along with the dashboard which contains a gist of modules implemented in this app</h5>
+<div align="center">
+
+  ![Home](media/Home.PNG)
+
+</div>
+
+
+
+
+
+
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >All the items selected by the user is stored inside the realtime database which is fetched and displayed inside the cart function</h5>
+<div align="center">
+
+  ![blog-deets](media/blog-detail.PNG)
+
+</div>
+
+
+
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >All the items selected by the user is stored inside the realtime database which is fetched and displayed inside the cart function</h5>
+<div align="center">
+
+  ![blog-deets](media/add-new-blogs.PNG)
+
+</div>
+
+
+
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >All the items selected by the user is stored inside the realtime database which is fetched and displayed inside the cart function</h5>
+<div align="center">
+
+  ![blog-deets](media/blog.gif)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
