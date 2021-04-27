@@ -4,10 +4,16 @@
 
 
 
-<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding: 40px>User login along with the dashboard which contains a gist of modules implemented in this app</h5>
-<div align="center">
 
-  ![Home](media/Home.PNG)
+
+
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding: 40px>Blog Dashboard with all the blogs displayed.</h5>
+<div align="center" ; padding: 20px>
+
+  ![Home](media/home.PNG)
 
 </div>
 
@@ -19,7 +25,9 @@
 
 
 
-<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >All the items selected by the user is stored inside the realtime database which is fetched and displayed inside the cart function</h5>
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >The user can delete blog by simply clicking on a particular blog which gives an expanded view of that blog with delete button.</h5>
 <div align="center">
 
   ![blog-deets](media/blog-detail.PNG)
@@ -31,7 +39,10 @@
 
 
 
-<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >All the items selected by the user is stored inside the realtime database which is fetched and displayed inside the cart function</h5>
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >User can add new blogs which will be mapped to the all blogs module.</h5>
 <div align="center">
 
   ![blog-deets](media/add-new-blogs.PNG)
@@ -43,7 +54,13 @@
 
 
 
-<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >All the items selected by the user is stored inside the realtime database which is fetched and displayed inside the cart function</h5>
+
+
+
+
+
+
+<h5 style="text-align=center";font-family: "Times New Roman", Times, serif; padding:40px >Demo video</h5>
 <div align="center">
 
   ![blog-deets](media/blog.gif)
